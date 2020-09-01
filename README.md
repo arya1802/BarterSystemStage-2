@@ -1,2 +1,2 @@
-# barter-app-statge-2
+# barter-app-stage-2
 Sign Up Form
